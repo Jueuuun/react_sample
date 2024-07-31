@@ -11,8 +11,11 @@
         background-color: var(--black);
         color: var(--white);
 
-        &:focus{top: 10px;}
-        &:active{top: 10px;}
+        &:focus{
+            top: 10px;
+        }
+        &:active{
+            top: 10px;
+        }
     }
-
 }
